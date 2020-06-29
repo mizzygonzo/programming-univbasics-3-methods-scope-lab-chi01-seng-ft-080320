@@ -14,6 +14,6 @@ def toadstool
  end
 
   def all_phrases
-    phrase = "'It's-a me, Mario! 'Thank You Mario! But Our Princess Is In Another Castle!''It\'s Dangerous To Go Alone! Take This.'"
-   puts phrase 
+    all_phrase = "'It's-a me, Mario! 'Thank You Mario! But Our Princess Is In Another Castle!''It\'s Dangerous To Go Alone! Take This.'"
+   puts all_phrase 
  end 

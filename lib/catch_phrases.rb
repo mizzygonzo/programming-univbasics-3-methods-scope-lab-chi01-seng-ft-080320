@@ -14,6 +14,6 @@ def toadstool
  end
 
   def all_phrases
-    all_phrase = 
-   puts all_phrase 
+    catch_phrase = 
+   puts catch_phrase
  end 

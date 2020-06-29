@@ -13,6 +13,6 @@ def toadstool
    puts receive_sword
  end
 
-  def all_phrases
-   puts phrase
+  def all_phrases(phrase_)
+   puts all_of_the_previous_catch_phrases
  end 

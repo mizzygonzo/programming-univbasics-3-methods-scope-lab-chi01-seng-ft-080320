@@ -14,6 +14,6 @@ def toadstool
  end
 
   def all_phrases
-    all_phrase = 'mario, toadstool, and link'
+     = 'mario, toadstool, and link'
    puts all_phrase
  end 

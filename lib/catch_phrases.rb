@@ -14,6 +14,6 @@ def toadstool
  end
 
   def all_phrases
-    catch_phrase = 'mario, toadstool, and link'
-   puts catch_phrase
+    all_phrase = 'mario, toadstool, and link'
+   puts all_phrase
  end 

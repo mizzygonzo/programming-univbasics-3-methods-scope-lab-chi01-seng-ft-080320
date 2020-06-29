@@ -14,6 +14,5 @@ def toadstool
  end
 
   def all_phrases
-  
   puts 
  end 

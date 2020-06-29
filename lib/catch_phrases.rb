@@ -13,6 +13,6 @@ def toadstool
    puts receive_sword
  end
 
-  def all_phrases(phrase)
+  def all_phrases
    puts phrase
  end 
